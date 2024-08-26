@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Voyon Technologies
 - 🌱 I’m currently learning React Js
 - 💬 Ask me about Front end or tech related stuff
